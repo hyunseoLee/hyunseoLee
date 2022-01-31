@@ -1,8 +1,8 @@
-### Hi there 👋
+### 👩🏻 Hyunseo Lee  
 
-:computer: Back-end developer
+ ### back-end developer
 
-👩🏻 Hyunseo Lee 
+
 
 <a href="" target=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href=""><img src="https://img.shields.io/badge/gustj1109@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
@@ -14,7 +14,7 @@
 
 
 
-🏆 Skills
+## 🏆 Skills
 <!--https://simpleicons.org/?q=C --> 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML5-0AC18E?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
