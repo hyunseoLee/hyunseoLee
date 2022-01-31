@@ -1,11 +1,13 @@
-### 👩🏻 Hyunseo Lee  
+## 👩🏻 Hyunseo Lee  
 
- ### back-end developer
 
 
 
 <a href="" target=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href=""><img src="https://img.shields.io/badge/gustj1109@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+
+ ### back-end developer
+
 
 <!--a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a-->
 <!--https://www.notion.so/Hyunseo-Lee-e3103b53ee0c46f6bcd794b5fdb25091 -->
@@ -14,10 +16,11 @@
 
 
 
-## 🏆 Skills
+### 🏆 Skills
 <!--https://simpleicons.org/?q=C --> 
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML5-0AC18E?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=HTML5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=HTML5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML5-0AC18E?style=flat-square&logo=HTML5&logoColor=FFFFFF"/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseoLee&show_icons=true&theme=tokyonight)
 
