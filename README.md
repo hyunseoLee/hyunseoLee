@@ -24,6 +24,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseoLee&show_icons=true&theme=tokyonight)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustj1109)](https://solved.ac/gustj1109/)
+
 
 <!--
 **hyunseoLee/hyunseoLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
