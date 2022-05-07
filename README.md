@@ -22,9 +22,7 @@
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=HTML5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=HTML5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML5-0AC18E?style=flat-square&logo=HTML5&logoColor=FFFFFF"/> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseoLee&show_icons=true&theme=tokyonight)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustj1109)](https://solved.ac/gustj1109/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseoLee&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustj1109)](https://solved.ac/gustj1109/)
 
 
 <!--
